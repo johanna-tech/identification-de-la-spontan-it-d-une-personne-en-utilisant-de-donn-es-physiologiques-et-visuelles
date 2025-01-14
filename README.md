@@ -1,0 +1,2 @@
+# identification-de-la-spontan-it-d-une-personne-en-utilisant-de-donn-es-physiologiques-et-visuelles
+Le projet consiste à implémenter un modèle d'apprentissage pour prédire la variable spontaneity à partir de 34 caractéristiques extraites, dont 4 physiologiques, 4 visuelles basées sur les yeux et 26 faciales. Les données sont stockées dans allFeaturesProcessedTraining.csv, et un modèle supervisé sera entraîné pour effectuer des prédictions.
